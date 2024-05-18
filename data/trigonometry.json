@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "text": "What is the value of sin(30°)?",
+      "choices": [
+        "0",
+        "1",
+        "0.5"
+      ],
+      "answer": "0.5"
+    },
+    {
+      "text": "What is the value of cos(60°)?",
+      "choices": [
+        "0",
+        "1",
+        "0.5"
+      ],
+      "answer": "0.5"
+    },
+    {
+      "text": "What is the value of tan(45°)?",
+      "choices": [
+        "0",
+        "1",
+        "undefined"
+      ],
+      "answer": "1"
+    },
+    {
+      "text": "What is the value of cot(30°)?",
+      "choices": [
+        "0",
+        "1",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "text": "What is the value of sec(90°)?",
+      "choices": [
+        "1",
+        "0",
+        "-1"
+      ],
+      "answer": "1"
+    }
+  ]
+}
