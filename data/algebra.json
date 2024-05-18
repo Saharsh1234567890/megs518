@@ -8,6 +8,42 @@
         "x = (-b ± √(b² - 4ac)) * 2a"
       ],
       "answer": "x = (-b ± √(b² - 4ac)) / 2a"
+    },
+    {
+      "text": "What is the solution to the equation 2x + 5 = 15?",
+      "choices": [
+        "x = 5",
+        "x = 10",
+        "x = 15"
+      ],
+      "answer": "x = 5"
+    },
+    {
+      "text": "What is the value of x in the equation 3x - 7 = 14?",
+      "choices": [
+        "x = 7",
+        "x = 5",
+        "x = 7/3"
+      ],
+      "answer": "x = 7"
+    },
+    {
+      "text": "What is the slope-intercept form of the equation of a line?",
+      "choices": [
+        "y = mx + b",
+        "y = ax^2 + bx + c",
+        "y = a(x - h)^2 + k"
+      ],
+      "answer": "y = mx + b"
+    },
+    {
+      "text": "What is the value of 'm' in the equation y = 2x + 3?",
+      "choices": [
+        "m = 2",
+        "m = 3",
+        "m = -3"
+      ],
+      "answer": "m = 2"
     }
   ]
 }
