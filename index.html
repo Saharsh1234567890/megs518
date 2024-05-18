@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Quiz App</h1>
+    <div id="topic-dropdown">
+      <label for="topics">Choose a topic:</label>
+      <select id="topics">
+        <option value="">Select Topic</option>
+        <option value="algebra">Algebra</option>
+        <option value="trigonometry">Trigonometry</option>
+        <option value="rational_numbers">Rational Numbers</option>
+      </select>
+    </div>
+    <div id="quiz-questions" class="hidden">
+      <!-- Quiz questions will be rendered here -->
+    </div>
+    <div id="quiz-results" class="hidden">
+      <!-- Quiz results will be rendered here -->
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
