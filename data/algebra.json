@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "text": "What is the quadratic formula?",
+      "choices": [
+        "x = (-b ± √(b² - 4ac)) / 2a",
+        "x = (-b ± √(b² + 4ac)) / 2a",
+        "x = (-b ± √(b² - 4ac)) * 2a"
+      ],
+      "answer": "x = (-b ± √(b² - 4ac)) / 2a"
+    }
+  ]
+}
